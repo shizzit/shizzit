@@ -1,4 +1,4 @@
-## Hi there, My name is Ed.  👋
+## Hi there, my name is Ed.  👋
 I do DevOps work. Here are some things I use:
 - 💬 AWS, Google Cloud and Azure
 - ⚡ Bash, Python, Golang
